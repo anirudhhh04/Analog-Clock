@@ -1,6 +1,6 @@
-## IDEA:
-This code creates a simple analog clock using HTML, CSS, and JavaScript:
-## Languages Used:
+## IDEA :
+This code creates a simple Analog clock displaying Current time.
+## Tools Used :
 - HTML
 - CSS
 - JavaScript
